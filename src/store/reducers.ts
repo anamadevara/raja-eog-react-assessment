@@ -1,4 +1,4 @@
-import { reducer as weatherReducer } from '../Features/Weather/reducer';
+import { reducer as weatherReducer } from '../Reducers/Reducers/reducer';
 
 export default {
   weather: weatherReducer,
